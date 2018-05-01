@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Icherub</string>
+    <string name="title_main">首页</string>
+    <string name="title_score">评分</string>
+    <string name="title_diary">日迹</string>
+    <string name="title_remind">提醒</string>
+</resources>
